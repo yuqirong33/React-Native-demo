@@ -117,6 +117,7 @@ export default class HelloWorldApp extends Component {
   }
 }
 
+//CSS 修饰每个component里的props， 用来美化界面
 var styles = StyleSheet.create({
     container: {
         flex: 1,
